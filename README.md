@@ -3,8 +3,8 @@ Basado en https://en.wikipedia.org/wiki/Stable_marriage_problem
 
 # Resultados
 
-- N = Número de personas de cada conjunto.
-- NP = Número de prioridades para cada elemento.
+- N = Número de elementos de cada subconjunto H y M.
+- NP = Número máximo preferencias de cada elemento.
 - LOOPS = Número de repeticiones de la simulación.
 
 
