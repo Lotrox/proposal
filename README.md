@@ -1,5 +1,5 @@
 # Problema de proposición-aceptación. 
-Basado en https://en.wikipedia.org/wiki/Stable_marriage_problem
+Inspirado en https://en.wikipedia.org/wiki/Stable_marriage_problem
 
 # Resultados
 
